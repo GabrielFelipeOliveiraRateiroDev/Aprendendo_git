@@ -1,0 +1,12 @@
+@import "reset";
+@import "variables-color";
+@import "styles.scss";
+
+.musica_letra-container {
+
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    background-color: rgba(9, 8, 85, 0.486);
+
+}
